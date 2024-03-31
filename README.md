@@ -17,6 +17,20 @@ Multiplication
 
 Division
 
+# Password Generator
+
+# Description:  
+
+The password generator project is a Python script that generates strong and random passwords based on user-defined criteria. It offers flexibility in specifying the length of the password as well as including uppercase letters, lowercase letters, digits, and special characters.
+
+# Features:
+
+Generate random passwords
+
+Specify password length
+
+Include uppercase letters, lowercase letters, digits, and special characters
+
 # To-Do List
 
 # Description:
